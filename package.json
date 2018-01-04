@@ -1,0 +1,25 @@
+{
+	"name": "NodejsStarterApp",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+    "bitly": "*",
+    "cloudant": "*",
+    "dotenv": "*",
+    "express": "*",
+    "json-sql": "*",
+    "performance-now": "*",
+    "plotly": "*",
+    "quiche": "*",
+    "request": "*",
+    "request-promise": "*",
+    "themeparks": "^4.6.3"
+  },
+	"repository": {},
+	"engines": {
+		"node": "6.x"
+	} 
+}
